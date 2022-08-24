@@ -1,0 +1,15 @@
+C:\Users\пк\Desktop\GeekBrains\HomeWork_5\Task35\bin\Debug\net6.0\Task35.exe
+C:\Users\пк\Desktop\GeekBrains\HomeWork_5\Task35\bin\Debug\net6.0\Task35.deps.json
+C:\Users\пк\Desktop\GeekBrains\HomeWork_5\Task35\bin\Debug\net6.0\Task35.runtimeconfig.json
+C:\Users\пк\Desktop\GeekBrains\HomeWork_5\Task35\bin\Debug\net6.0\Task35.dll
+C:\Users\пк\Desktop\GeekBrains\HomeWork_5\Task35\bin\Debug\net6.0\Task35.pdb
+C:\Users\пк\Desktop\GeekBrains\HomeWork_5\Task35\obj\Debug\net6.0\Task35.csproj.AssemblyReference.cache
+C:\Users\пк\Desktop\GeekBrains\HomeWork_5\Task35\obj\Debug\net6.0\Task35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\Desktop\GeekBrains\HomeWork_5\Task35\obj\Debug\net6.0\Task35.AssemblyInfoInputs.cache
+C:\Users\пк\Desktop\GeekBrains\HomeWork_5\Task35\obj\Debug\net6.0\Task35.AssemblyInfo.cs
+C:\Users\пк\Desktop\GeekBrains\HomeWork_5\Task35\obj\Debug\net6.0\Task35.csproj.CoreCompileInputs.cache
+C:\Users\пк\Desktop\GeekBrains\HomeWork_5\Task35\obj\Debug\net6.0\Task35.dll
+C:\Users\пк\Desktop\GeekBrains\HomeWork_5\Task35\obj\Debug\net6.0\refint\Task35.dll
+C:\Users\пк\Desktop\GeekBrains\HomeWork_5\Task35\obj\Debug\net6.0\Task35.pdb
+C:\Users\пк\Desktop\GeekBrains\HomeWork_5\Task35\obj\Debug\net6.0\Task35.genruntimeconfig.cache
+C:\Users\пк\Desktop\GeekBrains\HomeWork_5\Task35\obj\Debug\net6.0\ref\Task35.dll
